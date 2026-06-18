@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Montserrat:wght@400;700;900&display=swap');
+
+
+
+:root {
+  --text: #111;
+  --bg: #F5F1E6;
+
+  background: var(--bg);
+
+}
+
+h1,
+h2,
+h3,
+.bauhaus-header {
+  font-family: 'Montserrat', sans-serif;
+  /* Tu fuente pesada para los títulos y números de carrera */
+  /* Mantenemos tu regla estricta de minúsculas */
+}
+
+body {
+  margin: 0;
+  padding: 0
+}
